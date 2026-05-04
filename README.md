@@ -1,6 +1,5 @@
-# Eco-Bot
-Automated Multi-Platform Price Intelligence System
-# Eco-Bot: Intelligent RPA Price Monitoring System
+# Eco-Bot : Automated Multi-Platform Price Intelligence System
+
 
 ##  Project Overview
 **Eco-Bot** is an end-to-end Robotic Process Automation (RPA) solution built to demonstrate advanced browser automation, data management, and full-stack integration. Unlike traditional scrapers, Eco-Bot mimics human behavior to monitor e-commerce prices, store historical data, and provide a visual dashboard for price intelligence. 
